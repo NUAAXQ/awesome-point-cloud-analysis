@@ -1059,6 +1059,10 @@ Statistics: :fire: code is available & stars >= 100 &emsp;|&emsp; :star: citatio
 - [[ECCV](https://link.springer.com/chapter/10.1007/978-3-031-20086-1_31)] Unsupervised Learning of 3D Semantic Keypoints with Mutual Reconstruction. [[code](https://github.com/YYYYYHC/Learning-3D-Keypoints-with-Mutual-Recosntruction)] [__`Reconstruction`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136620573.pdf)] Revisiting Point Cloud Simplification: A Learnable Feature Preserving Approach.  [__`Simplification`__]
 - [[ECCV](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136610123.pdf)] Lidar Point Cloud Guided Monocular 3D Object Detection. [[code](https://github.com/SPengLiang/LPCG)] [__`Detection`__]
+-
+- [[TMM](https://www.zdzheng.xyz/files/TMM_3D_Pre_Training.pdf)] Self-supervised Point Cloud Representation Learning via Separating Mixed Shapes [[code](https://github.com/cyysc1998/3d-pretraining)] [__`Self-Supervised Learning`__]
+- 
+- [[TNNLS](https://www.zdzheng.xyz/files/TNNLS_3D_PersonReID.pdf)] Parameter-Efficient Person Re-identification in the 3D Space [[code](https://github.com/layumi/person-reid-3d)][__`Retrieval`__]:fire:
 
 ---
 ## 2023
