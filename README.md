@@ -1090,6 +1090,12 @@ Keypoints Voting for Robust 6D Object Pose Estimation. [[code](https://github.co
 - [[ICCV](https://arxiv.org/abs/2308.08140)] GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds. [[code](https://github.com/Liz66666/GPA3D)] [__`Detection`__]
 - [[ICCV](https://arxiv.org/abs/2307.14726)] P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds. [[code](https://github.com/CuiRuikai/Partial2Complete)] [__`Completion`__]
 - [[ICCV](https://arxiv.org/abs/2308.05410)] SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data. [[code](https://github.com/IIT-PAVIS/SC3K)] [__`Keypoints`__]
+- [[ICCV](https://openaccess.thecvf.com/content/ICCV2023/html/Huang_Ponder_Point_Cloud_Pre-training_via_Neural_Rendering_ICCV_2023_paper.html)] Ponder: Point Cloud Pre-training via Neural Rendering. [__`Self-Supervised`__]
+- 
+- [[WACV](https://arxiv.org/abs/2210.05135)] X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views. [[code](https://github.com/HaoyiZhu/XNeRF)] [__`Nerf`__]
+- 
+- [[arxiv](https://arxiv.org/abs/2310.08586)] PonderV2: Pave the Way for 3D Foundation Model with A Universal Pre-training Paradigm. [[code](https://github.com/OpenGVLab/PonderV2)] [__`Self-Supervised`__] :fire:
+- [[arxiv](https://arxiv.org/abs/2310.08370)] UniPAD: A Universal Pre-training Paradigm for Autonomous Driving. [[code](https://github.com/Nightmare-n/UniPAD)] [__`Self-Supervised`__ __`aut.`__]
 
 ```diff
 - Datasets
